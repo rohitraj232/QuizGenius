@@ -1,3 +1,11 @@
+# Output
+
+Click here to try it: https://quizgenius-app.netlify.app/
+
+## Video Output
+
+https://github.com/rohitraj232/QuizGenius/assets/57895889/8bee9a04-412e-4c03-ac6a-40e68b7cd9cd
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
